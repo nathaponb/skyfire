@@ -6,6 +6,7 @@
 #define SCREEN_WIDTH 960
 #define SCREEN_HEIGHT 640
 
+// singleton engine
 class Engine {
   private:
     Engine() {}
